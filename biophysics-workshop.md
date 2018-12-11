@@ -12,7 +12,7 @@ output:
 ### General
 
 * [Slide show](https://docs.google.com/presentation/d/1Bs6WAO5z7ckiavqlTIQKnoAjaNq8Ghmi4edZFIEkeJE/edit?usp=sharing)
-* Handout
+* [Student handout](https://docs.google.com/document/d/1GHk4CkERRBo_ys_HSOySkK2CAmIsZ0Dm_i8MgSCtHLM/edit?usp=sharing)
 * [Simulation code](https://github.com/mbonsma/biophysics-workshop/blob/master/moran-simulation/Moran_exercise.ipynb) (optional)
 
 ### Polarization and biological molecules
