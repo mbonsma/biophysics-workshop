@@ -36,7 +36,7 @@ output:
 * Coloured tokens in two colours for each pod (these could be anything - chits, balls, paper pieces) - 6 of each per group of two or three. We used coloured coins in green and purple.
 * Dice - one die per pod
 * Paper (worksheet with table to fill in) & pencil
-* Environment images - trees and moths coloured purple or green, one per pod
+* Environment images - trees and moths coloured [purple](https://github.com/mbonsma/biophysics-workshop/blob/master/purple_tree.svg) or [green](https://github.com/mbonsma/biophysics-workshop/blob/master/green_tree.svg), one per pod
 
 ## Introduction
 
