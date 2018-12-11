@@ -2,11 +2,9 @@
 title: "Using Physics to Understand Biology"
 author: Madeleine Bonsma-Fisher and Sophie McGibbon Gardner
 geometry: margin=2cm
+urlcolor: blue
 output:
   pdf_document: default
-  html_notebook: default
-  html_document:
-    df_print: paged
 ---
 
 ## Materials list
