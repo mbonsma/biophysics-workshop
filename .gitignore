@@ -6,3 +6,8 @@ Mech*
 *.svg
 *.mp4
 *.pdf
+moran-simulation/*.gif
+moran-simulation/*.png
+moran-simulation/.ipynb_checkpoints
+moran-simulation/frames
+moran-simulation/image_list.txt
