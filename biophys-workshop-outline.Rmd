@@ -1,0 +1,209 @@
+---
+title: "Using Physics to Understand Biology"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+---
+
+"Jigsaw assignment" - combining results between groups, having different groups do different things
+
+Google slides link: https://docs.google.com/presentation/d/1Bs6WAO5z7ckiavqlTIQKnoAjaNq8Ghmi4edZFIEkeJE/edit?usp=sharing
+
+Chemistry kits: https://www.indigoinstruments.com/molecular_models/molymod/components/
+
+## DNA: from structure to populations
+
+## Introduction
+
+### What is biophysics?
+
+* Ask students: you know physics, you know biology. What do you think of when you hear the word 'biophysics'? Write their responses on the board. 
+* Biophysics is (probably) all of those things! We think of biophysics as:
+    * Learning about the physical properties and behaviour of biological things
+    * Using tools from physics to answer questions about biological things
+
+We will do two activities today that have to do with biology and physics. 
+
+### About us
+
+* Where we're from, why we study biophysics
+
+
+# Part 1: physics in biology
+
+Many biophysicists study the physical properties of biological systems. One property that physicists love is how materials interact with light. 
+
+## Polarization of light
+
+How many of you have learned about 'polarization' before? There are two things about light that we need to know to figure out what's going on in this first activity. The first is about the polarization of light, and the second is that different colours of light behave differently when they go through materials.
+
+### Polarization and the wave nature of light
+
+Light often behaves like a wave, and it wiggles like a wave as it moves. Different directions of vibration (called 'polarization') can be filtered out using a polarizing filter. A polarizing filter is like a fence, and the light will get blocked if it isn’t lined up in the same direction as the fence slats. 
+
+### How light travels through materials
+
+Different colours of light travel differently they go through things - that's how a prism works, and why the sky is blue. Shorter wavelengths (like blue and purple) typically slow down more when they go into a material than longer wavelengths (like yellow and red).
+
+Different polarizations of light also behave differently when they go through certain materials. 
+
+## Experiment: chiral molecules and polarization
+
+Many biological molecules are asymmetric: they look different depending on their orientation. 
+This asymmetry can be observed through the polarization of light: 
+light travelling through a material can be rotated or phase-shifted
+to a different polarization if the molecule has certain asymmetries. 
+
+Look at your two hands or two feet. What is the same about them? What is different? For many molecules, they can be constructed like hands - there are two versions, and one is the mirror image of the other. Now imagine trying to put a right-handed glove on your left hand. Is it possible?  
+
+### Materials
+
+* Two large polarizing sheets (~10" x 10")
+* One large beaker filled with water
+* One large beaker filled with a solution of water and sucrose powder
+* Optional: a chunk of calcite, glass, or plastic, possibly with some tape
+* Optional: one large beaker filled with a solution of water and stevia
+* Optional: one large beaker filled with a solution of water and artificial sweetener
+* Overhead projector
+* Optional: paper to mask the part of the projector not beneath the beaker
+* Chiral molecule examples from chemistry set
+
+
+### Objective & Procedure
+
+Students explore the effect of different materials on the polarization of light
+by placing materials between two crossed polarizers. Certain materials will rotate
+polarization, others not. Sucrose and water causes beautiful colours to appear as crossed polarizers are rotated.
+
+### Questions for students
+
+* What do you observe when two polarizers are crossed and rotated with nothing in between?
+* What about for (water, water & sucrose, etc)?
+* (Optional): what do you think would happen if we put more sucrose in the water? What about if we added more water? Both?
+* How do you think this concept could be used to investigate materials?
+
+## Notes
+
+* Get each student to come up and rotate the polarizer and look down through the beaker
+* Ask students: why does it look the same when it goes through water as through air? Make sure to talk through each step: polarizer 1, beaker, polarizer 2.
+* Pass the polarizers around while talking about polarization at the beginning
+* Ask students: what would happen if there was more liquid? If we added more sugar?
+* Ask them to guess what's in the beaker - just kind of fun
+* Ask students: where does sugar come from? How is it made? (By plants, from sunlight and air)
+* Ask students: if you did the chemical reaction to make these molecules, would you get half and half of the chirality? Biology is weird because you only get one
+* Possible extension: get more chemistry kits, get the entire group to each make one, then compare what's the same and what's different - make a histogram of the chirality, you would get 50-50
+* If you've heard of polarization, where did you hear about it?
+* Give some examples of polarization in the real world - polarized sunglassed and 3D glasses
+
+## Polarization experiment debrief
+
+* Many biological molecules (molecules created or altered by a living creature), are *chiral* or *asymmetric* - their mirror image is not the same. 
+    * In many cases, the mirror image molecule can exist, but it might have a completely different function! For example, the molecule carvone smells like spearmint in one orientation, but the mirror-image smells like caraway! [McManus 2002]
+* DNA is a biological molecule, and its structure was unknown until the 1950s.
+* Researchers (Rosalind Franklin) used light to analyze the structure of DNA and 
+realized that DNA had a double-helix structure.
+
+* Interesting tidbit: this technique is used in the sugar industry to measure sugar concentration! 
+* Interesting tidbit: the same principle of using asymmetric molecules to interact with light is how LCDs (liquid crystal displays) work!
+* Interesting tidbit: the two components of sucrose, glucose and fructose, are both chiral as well. We can only digest one of the two versions of glucose: we can digest D-glucose and D-fructose, but L-glucose and L-fructose taste sweet but we are not digestible. 
+
+# Part 2 - randomness in nature
+
+* What are some things that you know about DNA? What does it do? 
+
+Before we knew about the structure of DNA and that DNA carried genetic information,
+people learned things about how inheritance worked by observing its effects in 
+natural populations. 
+
+When we look around at the diversity of life, it looks very complicated and hard to understand: why are elephants big? Why do zebras have stripes? Why are there so many kinds of grass? We know that evolution governs some of the change that happens in natural populations, but does 'surival of the fittest' tell the whole story?
+
+**Ask students**: get them to theorize about why zebras have stripes, and why there are so many different kinds of trees?
+
+* How does survival of the fittest work?
+
+One of the best examples of 'survival of the fittest' is a certain species of moth called the Peppered Moth that lives in the United Kingdom. In the 1800s, it was almost always found in a light-coloured variety. But then the Industrial Revolution happened, and a lot of coal soot pollution entered the environment. The trees that the moths like to live on that normally had light-coloured lichen on them got darker - they got sooty, and the lichen died off. In a period of a few decades, a dark-coloured variety of moth became much more common, almost entirely replacing the light-coloured moth! 
+
+We will do an experiment to simulate a natural population as it grows and evolves
+and observe the outcome to see which will win: evolution, or chance! 
+
+## Experiment: Moran process 
+
+### Notes
+
+* Important point: both moths existed before the selection changed - selection acts on existing variation.
+* Possible nice thing for the slides: make a gif of the histogram building itself as trials complete 
+* clarify instructions to count up number throws for each trial
+* do tallies on the board afterwards of the group totals - make the graphs in real time at the end of the number of rolls and the number of times each colour won. Real time advantages: never have to say the word histogram, everyone's results matter
+* ask them at the beginning which colour would win. Ask them between the 50-50 and 66-33 experiment what they think the next histograms will look like, and which colour will win. 
+* Ask them if they can think of examples of selection - traits changing over time? (i.e. dog breeds, eye colour)
+* On histogram for trial length at the end of the second: ask them if they're different, and if it's unclear ask how they could test it. What would convince them?
+
+* Examples to add: extremophiles (crazy stuff because of crazy selection)
+* Examples to add: lizards and island selection
+* Examples to add: Fish that went blind in Mexico - "blind cave fish"
+* Possible example: the "grey squirrels" here are black, because black is warmer than grey (check if this is true)
+* Circle back to the zebras: one reason why they have stripes might be because of randomness - maybe a zebra randomly got stripes, and it randomly took over in the populations. 
+* Why do we have 5 fingers and not 4 or 6? Answer: the first thing randomly had five fingers, or maybe there were different amounts of fingers, but one randomly became fixed in the population
+* Go back to the zebras after the first one - imagine we have six groups of zebras, and they can be either brown or striped and they're both equally good. Sometimes, they would all get stripes! 
+* Handout: make the table longer, and cut them off at some point so they don't get bored by seeing that the end is near
+* To make the Moran game more fun: split groups of four into two groups of two that are 'facing off' or just running separate experiments
+* Pose it more as a game: if you roll the die and your colour wins, then you get to roll again, if you lose, then the next person rolls. 
+
+
+### Materials
+
+* Coloured tokens in two colours for each pod (these could be anything - chits, balls, paper pieces) - about 10 of each per group. 
+* Dice - one die per pod
+* Paper & pencil
+
+### Objective & Procedure
+
+Students carry out a simulation of the Moran process using their coloured tokens. Starting with equal number of each colour (say red and blue), they roll the die repeatedly and do one of two things depending on the outcome: either a red token 'dies' and a blue token is 'born', or vice versa. They repeat this until the population is either all red or all blue, and record the number of rolls it took to get that outcome. 
+
+#### Round 1
+
+The dice probabilities are 50-50: if the number is 4-6, red dies, and if the number is 1-3, blue dies. Students combine their observations across groups, and observe that red goes extinct about half the time.
+
+#### Round 2
+
+Red is slightly more fit than blue. If the number is 1-4, blue dies, and if the number is 5 or 6, red dies. We can also modify this to have different pods reflect different 'environmental conditions': in some pods, darker moths are more fit, and in others, lighter moths are more fit.
+
+Students observe that even though one colour is 'better' than the other, it doesn't always take over in the population because of randomness. 
+
+### Questions for students
+
+* Which colour do you think will win? Why?
+* Do you think it would take longer, shorter, or the same time on average for one colour to win if we used more tokens (like 5 of each colour instead of 3)? What does this mean about real populations?
+
+### Extensions and variations
+
+* Different population sizes - look at the amount of genetic drift as a function of population size, make a histogram
+* Track the population size over time - enter in a spreadsheet the number of red at each die roll.
+
+## Moran experiment debrief
+
+Natural selection, or 'survival of the fittest', influences which traits increase in a population over time, but another strong influence is chance, which we saw today. Physics has helped researchers understand the role of chance in biology. 
+
+In the experiment, we knew what was happening at each time step. In the real world, we often don't have all the time steps: we look at a population at one instant in time, and we use the principles we saw at work in our experiment to give us more information about the factors at work in real-world populations.
+
+We use these principles a lot to study bacteria. We use antibiotics to treat illnesses caused by bacteria, but sometimes bacteria get mutations that make them antibiotic-resistant. Understanding chance and natural selection has made it possible to predict how likely it is that that will happen, and how often it can happen in different situations. 
+
+Possible other example: small populations that can have weird traits fix that don't necessarily have a benefit. (Possibly deer?)
+
+
+## Resources and further reading
+
+* http://chemed.chem.purdue.edu/genchem/topicreview/bp/1organic/chirality.html
+* https://en.wikipedia.org/wiki/Optical_rotation
+* https://eic.rsc.org/exhibition-chemistry/chirality-in-sugars/2020041.article 
+
+
+* "One name for D-glucose (the biological isomer), is dextrose, referring to the fact that it causes linearly polarized light to rotate to the right or dexter side. In a similar manner, levulose, more commonly known as fructose, causes the plane of polarization to rotate to the left. Fructose is even more strongly levorotatory than glucose is dextrorotatory. Invert sugar syrup, commercially formed by the hydrolysis of sucrose syrup to a mixture of the component simple sugars, fructose, and glucose, gets its name from the fact that the conversion causes the direction of rotation to "invert" from right to left." (Wikipedia)
+
+Materials notes:
+
+- we want each participant to be able to assemble a tetrahedral molecule with four different end groups (represented by four different coloured atoms). We could buy enough pre-made chemistry kits to allow about 30 people to make the same molecule (6 kits [like this](https://www.walmart.com/ip/Organic-Chemistry-Model-Kit-239-pieces-Molecular-Model-Kit-Atoms-Bonds-Instructional-Guide-Chemistry-Model-Kit-Students-Teachers/576904262), for instance), or we could buy in bulk just the individual components that we need to make the tetrahedral molecules. For enough supplies for a 30-person group, we could buy the parts for \$95 plus about \$9 shipping at [Indigo Instruments](https://www.indigoinstruments.com/molecular_models/molymod/components/#9252). Here's a screenshot of a shopping cart that has everything we need:
+
+![]()
