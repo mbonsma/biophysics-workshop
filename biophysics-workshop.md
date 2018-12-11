@@ -43,6 +43,7 @@ output:
 * **Ask students:** What do you think of when you hear the word 'biophysics'?
 
 Biophysics is (probably) all of those things! We think of biophysics as:
+
 * Learning about the physical properties and behaviour of biological things
 * Using tools from physics to answer questions about biological things
 
